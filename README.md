@@ -6,4 +6,4 @@ This project take a very shallow dip to the world of ThreeJS with NextJS using R
 
 1. `npm install`
 2. `npm run dev` for development
-3. `npm run build & npm run start` for production
+3. `npm run build && npm run start` for production
